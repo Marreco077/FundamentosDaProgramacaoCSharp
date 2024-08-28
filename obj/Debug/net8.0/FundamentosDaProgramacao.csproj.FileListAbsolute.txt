@@ -12,3 +12,4 @@ D:\CSharp\FundamentosDaProgramacao\obj\Debug\net8.0\refint\FundamentosDaPrograma
 D:\CSharp\FundamentosDaProgramacao\obj\Debug\net8.0\FundamentosDaProgramacao.pdb
 D:\CSharp\FundamentosDaProgramacao\obj\Debug\net8.0\FundamentosDaProgramacao.genruntimeconfig.cache
 D:\CSharp\FundamentosDaProgramacao\obj\Debug\net8.0\ref\FundamentosDaProgramacao.dll
+D:\CSharp\FundamentosDaProgramacao\obj\Debug\net8.0\FundamentosDaProgramacao.sourcelink.json

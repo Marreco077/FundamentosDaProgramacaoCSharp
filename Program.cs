@@ -8,7 +8,7 @@ namespace FundamentosDaProgramacao
     {
         static void Main(string[] args)
         {
-            Cap03Ex02.Run();
+            Cap03Ex15.Run();
         }
     }
 }
