@@ -1,0 +1,14 @@
+D:\CSharp\FundamentosDaProgramacao\bin\Debug\net8.0\FundamentosDaProgramacao.exe
+D:\CSharp\FundamentosDaProgramacao\bin\Debug\net8.0\FundamentosDaProgramacao.deps.json
+D:\CSharp\FundamentosDaProgramacao\bin\Debug\net8.0\FundamentosDaProgramacao.runtimeconfig.json
+D:\CSharp\FundamentosDaProgramacao\bin\Debug\net8.0\FundamentosDaProgramacao.dll
+D:\CSharp\FundamentosDaProgramacao\bin\Debug\net8.0\FundamentosDaProgramacao.pdb
+D:\CSharp\FundamentosDaProgramacao\obj\Debug\net8.0\FundamentosDaProgramacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\FundamentosDaProgramacao\obj\Debug\net8.0\FundamentosDaProgramacao.AssemblyInfoInputs.cache
+D:\CSharp\FundamentosDaProgramacao\obj\Debug\net8.0\FundamentosDaProgramacao.AssemblyInfo.cs
+D:\CSharp\FundamentosDaProgramacao\obj\Debug\net8.0\FundamentosDaProgramacao.csproj.CoreCompileInputs.cache
+D:\CSharp\FundamentosDaProgramacao\obj\Debug\net8.0\FundamentosDaProgramacao.dll
+D:\CSharp\FundamentosDaProgramacao\obj\Debug\net8.0\refint\FundamentosDaProgramacao.dll
+D:\CSharp\FundamentosDaProgramacao\obj\Debug\net8.0\FundamentosDaProgramacao.pdb
+D:\CSharp\FundamentosDaProgramacao\obj\Debug\net8.0\FundamentosDaProgramacao.genruntimeconfig.cache
+D:\CSharp\FundamentosDaProgramacao\obj\Debug\net8.0\ref\FundamentosDaProgramacao.dll
