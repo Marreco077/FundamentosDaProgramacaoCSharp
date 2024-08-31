@@ -1,5 +1,6 @@
 ﻿using System;
 using Cap03;
+using Cap04;
 
 
 namespace FundamentosDaProgramacao
@@ -8,7 +9,6 @@ namespace FundamentosDaProgramacao
     {
         static void Main(string[] args)
         {
-            Cap03Ex15.Run();
         }
     }
 }
