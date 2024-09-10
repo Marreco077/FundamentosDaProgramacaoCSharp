@@ -9,7 +9,7 @@ namespace FundamentosDaProgramacao
     {
         static void Main(string[] args)
         {
-            Cap04Ex14.Run();
+            Cap04Ex25.Run();
         }
     }
 }
