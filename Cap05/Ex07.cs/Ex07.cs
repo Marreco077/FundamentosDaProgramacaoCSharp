@@ -12,6 +12,7 @@ namespace Cap05
             {
                 
                 Console.WriteLine(numero);
+                int teste;
             }
         }
     }
